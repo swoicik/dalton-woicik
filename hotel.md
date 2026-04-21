@@ -3,6 +3,8 @@ layout: post
 title: Hotel
 ---
 
+To make your reservation...
+
 Information about the hotel 
 
 979 NH Rt 16, PO Box 246, Gorham, NH 03581
