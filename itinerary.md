@@ -6,7 +6,7 @@ title: Itinerary
 <h3>Friday, June 19</h3>
 <ul>
   <li>3:00 PM - Hotel Check In Begins</li>
-  <li>7:00 PM - Dinner in Hotel Restaurant - We will be dining at <a href="https://www.thenotchgrille.com" target="_blank">The Notch Grill</a>. If you will be at the hotel and want to join, please call 603-466-3420 to make a reservation and let them know you are with the Dalton Reception. They will sit us all together in the restaurant.
+  <li>7:00 PM - Dinner in Hotel Restaurant - We will be dining at <a href="https://www.thenotchgrille.com" target="_blank">The Notch Grill</a>. If you will be at the hotel and want to join, please call 603-466-3420 to make a reservation and let them know you are with the Dalton Reception. They will sit us all together in the restaurant.</li>
 </ul>
 
 <h3>Saturday, June 20</h3>
