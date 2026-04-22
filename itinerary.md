@@ -10,8 +10,9 @@ title: Itinerary
   <p>The Notch Grill</p>
 
 <ul>
-  <li>3:00 PM - Hotel Check In Begins/li>
-  <li>7:00 PM - Dinner in Hotel Restaurant/li>
+  <li>3:00 PM - Hotel Check In Begins</li>
+  <li>7:00 PM - Dinner in Hotel Restaurant</li>
+  <p>We will be dining at The Notch Grill on the Hotel Property. If you will be...</p>
 </ul>
 
 <h3>Saturday, June 20</h3>
