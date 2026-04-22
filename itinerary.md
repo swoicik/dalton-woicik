@@ -21,3 +21,7 @@ title: Itinerary
 <ul>
   <li>11:00 AM - Hotel Check Out</li>
 </ul>
+
+<br />
+
+<p>Times may change and will be finalizd closer to the weekend.</p>
