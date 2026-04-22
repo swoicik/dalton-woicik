@@ -18,4 +18,4 @@ Gorham, NH 03581<br />
 
 <br />
 
-<p>To make your reservation, please call the Glen House at 603-466-3420. Let them know you are with the Dalton Woicik Wedding. They will have your room blocked off at a discounted rate for June 19th & 20th.</p>
+<p>To make your reservation, please call the Glen House at 603-466-3420. Let them know you are with the Dalton Reception. They will have your room blocked off at a discounted rate for June 19th & 20th.</p>
