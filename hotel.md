@@ -3,7 +3,7 @@ layout: post
 title: The Glen House
 ---
 
-<img src="/assets/images/glen-house.jpeg" />
+<img src="/assets/images/glen-house.jpg" />
 <br />
 
 <p style="text-align:center">
