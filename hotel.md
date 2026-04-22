@@ -2,13 +2,15 @@
 layout: post
 title: The Glen House
 ---
+
+<img src="/assets/images/glen-house.jpeg" />
+<br />
+
 <p style="text-align:center">
 979 NH Rt 16<br />
 Gorham, NH 03581<br />
 603-466-3420
 </p>
-
-<img src="/assets/images/glen-house.jpeg" />
 
 <br />
 
