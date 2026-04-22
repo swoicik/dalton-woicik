@@ -4,11 +4,6 @@ title: Itinerary
 ---
 
 <h3>Friday, June 19</h3>
-
-  <h4>3:00 PM - Hotel Check In Begins</h4>
-  <h4>7:00 PM - Dinner in Hotel Restaurant</h4>
-  <p>The Notch Grill</p>
-
 <ul>
   <li>3:00 PM - Hotel Check In Begins</li>
   <li>7:00 PM - Dinner in Hotel Restaurant</li>
