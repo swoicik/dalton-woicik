@@ -8,6 +8,10 @@ Gorham, NH 03581<br />
 603-466-3420
 </p>
 
+<img src="/assets/images/glen-house.jpeg" />
+
+<br />
+
 <p>We will be staying, celebrating, and enjoying meals at <a href="https://theglenhouse.com" target="_blank">The Glen House</a>.</p>
 
 <br />
