@@ -3,7 +3,7 @@ layout: post
 title: Hotel
 ---
 
-<p>We will be staying and holding the reception at The Glenn House.</p>>
+<p>We will be staying and holding the reception at The Glenn House.</p>
 
 <br />
 
