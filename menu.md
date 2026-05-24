@@ -13,9 +13,9 @@ title: Dinner Menu
 
 <h3>Entrée</h3>
 <ul>
-  <li>Atlantic Salmon - Pepper-Crusted Salmon, Hardwood-Grilled with a Maple-Hoisin Drizzle, Served with Wilted Spinach.</li>
+  <li>Atlantic Salmon - Pepper-Crusted Salmon, Hardwood-Grilled with a Maple-Hoisin Drizzle, Served with Wilted Spinach</li>
   <li>Pasta Primavera With Fresh Seasonal Vegetables</li>
-  <li>Carving Station - Herb Crusted Prime Rib with Au Jus and Horseradish Sauce,</li>
+  <li>Carving Station - Herb Crusted Prime Rib with Au Jus and Horseradish Sauce</li>
   <li>Chef’s Selection of Complimenting Side Dishes</li>
 </ul>
 
