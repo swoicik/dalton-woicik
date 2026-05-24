@@ -29,7 +29,3 @@ title: Dinner Menu
   <li>Pasta with Butter</li>
   <li>Chicken Tenders with French Fries</li>
 </ul>
-
-<br />
-
-<p>Times may change and will be finalizd closer to the weekend.</p>
