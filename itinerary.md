@@ -27,4 +27,4 @@ title: Itinerary
 
 <br />
 
-<p>Times may change and will be finalizd closer to the weekend.</p>
+<p>Times may change depending on weather as we get closer to the date.</p>
