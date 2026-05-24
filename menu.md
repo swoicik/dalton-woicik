@@ -25,7 +25,7 @@ title: Dinner Menu
   <li>Coffee & Tea Station</li>
 </ul>
 
-<h3>Kid's Menu</h3>
+<h3>Kids Menu</h3>
 <ul>
   <li>Kraft Mac n Cheese</li>
   <li>Pasta with Butter</li>
