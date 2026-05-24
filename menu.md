@@ -3,6 +3,8 @@ layout: post
 title: Dinner Menu
 ---
 
+<p>We will be having a buffet style dinner in a private room at The Glen House. The dining room opens at 5:00 PM with dinner starting at 5:45 PM.</p>
+
 <h3>Starter</h3>
 <ul>
   <li>Garden Salad</li>
