@@ -12,8 +12,8 @@ title: Itinerary
 <h3>Saturday, June 20</h3>
 <ul>
   <li>Breakfast on your own</li>
-  <li>1:15 PM - Transportation to Mount Washington - We will meet in the hotel lobby to make our way up Mount Washington.</li>
-  <li>2:30 PM - Ceremony at the Summit - Andrew Dalton will be leading a short ceremony at the summit.</li>
+  <li>1:15 PM - Transportation to Mount Washington - We will meet in the hotel lobby to make our way up Mount Washington in chartered vans.</li>
+  <li>2:30 PM - Ceremony at the Summit - Andrew Dalton (brother of the bride) will be leading a short ceremony at the summit.</li>
   <li>5:00 PM - Dining Room Opens at The Glen House</li>
   <li>5:45 PM - Dinner Served - <a href="/menu">Menu Available</a></li>
 </ul>
