@@ -3,24 +3,31 @@ layout: post
 title: Dinner Menu
 ---
 
-<h3>Friday, June 19</h3>
+<h3>Starter</h3>
 <ul>
-  <li>3:00 PM - Hotel Check In Begins</li>
-  <li>7:00 PM - Dinner in Hotel Restaurant - We will be dining at <a href="https://www.thenotchgrille.com" target="_blank">The Notch Grill</a>. Reservatoins have been made for everyone attending.</li>
+  <li>Garden Salad</li>
+  <li>Warm Rolls and Butter</li>
 </ul>
 
-<h3>Saturday, June 20</h3>
+<h3>Entrée</h3>
 <ul>
-  <li>Breakfast on your own</li>
-  <li>1:15 PM - Transportation to Mount Washington - We will meet in the hotel lobby to make our way up Mount Washingon.</li>
-  <li>2:30 PM - Ceremony at the Summit - Andrew Dalton will be leading a short ceremony at the summit.</li>
-  <li>5:00 PM - Dining Room Opens
-  <li>6:00 PM - Dinner at The Glen House</li>
+  <li>Atlantic Salmon - Pepper-Crusted Salmon, Hardwood-Grilled with a Maple-Hoisin Drizzle, Served with Wilted Spinach.</li>
+  <li>Pasta Primavera With Fresh Seasonal Vegetables</li>
+  <li>Carving Station - Herb Crusted Prime Rib with Au Jus and Horseradish Sauce,</li>
+  <li>Chef’s Selection of Complimenting Side Dishes</li>
 </ul>
 
-<h3>Sunday, June 21</h3>
+<h3>Dessert</h3>
 <ul>
-  <li>11:00 AM - Hotel Check Out</li>
+  <li>Wedding Cake - Lemon Blueberry</li>
+  <li>Coffee & Tea Station</li>
+</ul>
+
+<h3>Kid's Menu</h3>
+<ul>
+  <li>Kraft Mac n Cheese</li>
+  <li>Pasta with Butter</li>
+  <li>Chicken Tenders with French Fries</li>
 </ul>
 
 <br />
